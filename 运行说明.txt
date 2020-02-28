@@ -1,0 +1,6 @@
+游戏名称:flappy bird
+发布时间:2016年8月28日
+发布平台:Windows64位系统
+作者:有机盐(organicsalt)
+运行方式:双击flappy bird.exe即可(第一次运行时可能会出现暂时黑屏的情况，有待修正)
+
